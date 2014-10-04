@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+   Copyright (C) 2013 Google Inc.
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+-->
+<resources>
+    <!-- TODO: Replace this by your app's app ID! -->
+    <string name="app_id" translatable="false">827767333679</string>
+
+    <!-- TODO: Replace these by your achievement/leaderboard IDs! -->
+    <string name="achievement_prime" translatable="false">CgkIr8ac1osYEAIQAQ</string>
+    <string name="achievement_really_bored" translatable="false">CgkIr8ac1osYEAIQAg</string>
+    <string name="achievement_bored" translatable="false">CgkIr8ac1osYEAIQAw</string>
+    <string name="achievement_humble" translatable="false">CgkIr8ac1osYEAIQBA</string>
+    <string name="achievement_arrogant" translatable="false">CgkIr8ac1osYEAIQBQ</string>
+    <string name="achievement_leet" translatable="false">CgkIr8ac1osYEAIQBg</string>
+
+    <string name="leaderboard_easy" translatable="false">CgkIr8ac1osYEAIQBw</string>
+    <string name="leaderboard_hard" translatable="false">CgkIr8ac1osYEAIQCA</string>
+</resources>

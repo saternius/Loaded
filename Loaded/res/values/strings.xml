@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+   Copyright (C) 2013 Google Inc.
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+-->
+
+<resources>
+    <string name="signing_in" translatable="false">Signing in with Google</string>
+    <string name="signing_out" translatable="false">Signing out</string>
+    <string name="app_name" translatable="false">Type-a-Number Challenge</string>
+    <string name="title_activity_main" translatable="false">Type-a-Number Challenge</string>
+    <string name="signed_out_greeting" translatable="false">Hello, anonymous user (not signed in)!</string>
+    <string name="achievements_not_available" translatable="false">Please sign in to view achievements.</string>
+    <string name="leaderboards_not_available" translatable="false">Please sign in to view leaderboards.</string>
+    <string name="easy_mode_explanation" translatable="false">You\'re playing in easy mode, so you got the score you requested! Wasn\'t that easy?</string>
+    <string name="hard_mode_explanation" translatable="false">You\'re playing in hard mode, so you only got half the score you requested! Isn\'t this game hard?</string>
+    <string name="achievement_prime_toast_text" translatable="false">Prime score!</string>
+    <string name="achievement_arrogant_toast_text" translatable="false">Arrogant (requested maximum score)!</string>
+    <string name="achievement_humble_toast_text" translatable="false">Humble! (requested 0 score)</string>
+    <string name="achievement_leet_toast_text" translatable="false">L33t! (got 1337 score)</string>
+    <string name="achievement" translatable="false">Achievement</string>
+    <string name="your_progress_will_be_uploaded" translatable="false">Your existing achievements and score will be uploaded shortly.</string>
+    <string name="what_score_do_you_deserve" translatable="false">What score do you think you deserve?</string>
+    <string name="initial_input" translatable="false">0000</string>
+    <string name="digit0" translatable="false"> 0 </string>
+    <string name="digit1" translatable="false">1</string>
+    <string name="digit2" translatable="false">2</string>
+    <string name="digit3" translatable="false">3</string>
+    <string name="digit4" translatable="false">4</string>
+    <string name="digit5" translatable="false">5</string>
+    <string name="digit6" translatable="false">6</string>
+    <string name="digit7" translatable="false">7</string>
+    <string name="digit8" translatable="false">8</string>
+    <string name="digit9" translatable="false">9</string>
+    <string name="clear" translatable="false">Clear</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="choose_difficulty" translatable="false">Choose a difficulty to play:</string>
+    <string name="easy" translatable="false">Easy</string>
+    <string name="hard" translatable="false">Hard</string>
+    <string name="see_your_progress" translatable="false">See your progress:</string>
+    <string name="show_achievements" translatable="false">Show Achievements</string>
+    <string name="show_leaderboards" translatable="false">Show Leaderboards</string>
+    <string name="sign_in_why" translatable="false">Sign in with Google to share your scores and achievements with your friends.</string>
+    <string name="you_are_signed_in" translatable="false">You are signed in with Google.</string>
+    <string name="sign_out" translatable="false">Sign out</string>
+    <string name="you_win" translatable="false">You win! Your score is:</string>
+    <string name="sign_in_to_upload_this_score" translatable="false">Sign in now to upload this score, save your achievements and share your progress with friends.</string>
+</resources>
